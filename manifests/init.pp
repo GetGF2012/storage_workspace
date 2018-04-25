@@ -1,6 +1,6 @@
 # manifests/init.pp
 class storage_workspace {
-  user { 'elmo':
+  user { 'bacancil':
     ensure => 'present',
   }
 }
